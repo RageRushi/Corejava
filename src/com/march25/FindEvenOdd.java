@@ -1,4 +1,4 @@
-package com.march.march25;
+package com.march25;
 
 public class FindEvenOdd {
     public static void main(String[] args) {
