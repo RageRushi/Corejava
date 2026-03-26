@@ -1,4 +1,4 @@
-package com.march26;
+package com.march26.conditions;
 
 public class ElseIfLadder {
     public static void main(String[] args) {
